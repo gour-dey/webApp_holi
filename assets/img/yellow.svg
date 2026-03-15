@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <g opacity="0.95">
+    <path d="M162 310c-22-90 44-181 146-205 120-29 214 11 268 96 43 68 34 166-20 233-61 76-170 134-284 114-55-10-93-44-110-86z" fill="#f59e0b"/>
+  </g>
+  <text x="60" y="520" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="44" font-weight="800" fill="#111827">Yellow</text>
+  <text x="60" y="565" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="20" font-weight="600" fill="#6b7280">Natural pigment</text>
+</svg>
